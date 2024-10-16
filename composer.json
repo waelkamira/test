@@ -1,0 +1,6 @@
+{
+  "require": {
+    "cookpad/cookpad-api": "^1.0",
+    "php-html-parser/php-html-parser": "^2.0"
+  }
+}
